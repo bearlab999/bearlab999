@@ -40,7 +40,7 @@ I built this space with a few simple beliefs:
 
 **→ Teaching is how I learn deeper.** If I can explain something complex in plain, simple, easy-to-remember language, that means I *actually* understand it. So every guide, every note, every protocol I write here is also me challenging myself to understand things better. This is the [Feynman Technique](https://fs.blog/feynman-learning-technique/) and I'm a firm believer. 🧠
 
-**→ Writing is a skill I'm training.** English isn't my first language — I'm Vietnamese, and I'm working toward studying, working, and eventually building a life abroad. Every README, every comment, every documentation I write here is me practising: how to communicate science clearly, concisely, and accessibly in Academic English. Bear is a work in progress. Always. ✍️
+**→ Writing is a skill I'm training.** English isn't my first language. I'm Vietnamese, and I'm working toward studying, working, and eventually building a life abroad. Every README, every comment, every documentation I write here is me practising: how to communicate science clearly, concisely, and accessibly in Academic English. Bear is a work in progress. Always. ✍️
 
 **→ A little chaos is good for the soul.** Research life can be stressful. So sometimes things here will be a little weird, a little playful, a little *young at heart*. Because if we can't laugh at our own broken pipelines at 2am, what are we even doing?
 
