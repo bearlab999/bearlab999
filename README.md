@@ -28,8 +28,6 @@ vanness = {
 
 ## 🌱 Why This Corner Exists
 
-I'll be honest with you.
-
 When I started learning Bioinformatics and Computational Biology, it felt... intimidating. Papers were dense. Tools had cryptic documentation. Everyone around me seemed to *already know everything*. And I often felt like I was the only one quietly panicking.
 
 This GitHub is my answer to that feeling.
